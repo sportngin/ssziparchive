@@ -1,0 +1,9 @@
+# GitHub branch names
+master_branch: master
+
+# general configs
+platform: ios
+project_type: library
+
+# Cocoapod config
+podspec: SNZipArchive.podspec
