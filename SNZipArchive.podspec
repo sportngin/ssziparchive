@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/sportngin/ssziparchive"
   s.author       = { 'Sam Soffes' => 'sam@soff.es' }
   s.source       = { :git => "git@github.com:sportngin/ssziparchive.git",
-                     :tag => "v#{s.version.to_s}" }
+                     :tag => "#{s.version.to_s}" }
 
   s.platform     = :ios, '6.0'
   s.requires_arc = true
